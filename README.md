@@ -1,6 +1,8 @@
 # calc_relative
 Calculate relative performance criteria and MCSE use calc_relative With (In) R Software
 
+https://www.youtube.com/watch?v=McVABGR0Yw4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
